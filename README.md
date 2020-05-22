@@ -1,4 +1,4 @@
-# Project Repository - Lab
+# Repository Organization - Lab
 
 
 ## Introduction
