@@ -5,7 +5,7 @@
 
 Now that you have reviewed a sample repository, identified concerns, and used the terminal and GitHub to align the repository with industry expectations, it is time to apply this knowledge to your own projects.
 
-## Objectives
+## Learning Goals:
 
 You will be able to:
 
